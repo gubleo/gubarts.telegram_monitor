@@ -1,0 +1,14 @@
+{
+    "name": "seu-projeto",
+    "version": "1.0.0",
+    "description": "Descrição do seu projeto",
+    "main": "index.js",
+    "scripts": {
+      "start": "node monitor.js"
+    },
+    "dependencies": {
+      "ping": "^0.4.0",
+      "gramjs": "^0.2.0"
+    }
+  }
+  
